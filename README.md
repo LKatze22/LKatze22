@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm a Passionate Web Developer!
 
-<!--
-**LKatze22/LKatze22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **self-taught web developer** who spends his free time building projects and improving skills in **HTML, CSS, and JavaScript**.  
+I started my journey a few months ago — and since then I've already created several exciting projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Love
+- Finding **creative solutions** to technical challenges  
+- Developing **modern**, **clean** and **user-friendly** websites  
+- Building **functional** tools that actually help people  
+
+---
+
+## 🧠 Currently Learning & Doing
+- Expanding my frontend skills  
+- Experimenting with new technologies  
+- Exploring the latest **tech trends**  
+
+---
+
+## 🎮 When I'm Not Coding
+I enjoy **gaming**, learning new tech, or diving into what's new in the tech world.
+
+---
+
+✨ *Looking forward to continuously improving and taking on new challenges!*

@@ -1,5 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> Hi, I'm a Passionate Web Developer!
 
+
 I'm a **self-taught web developer** who spends his free time building projects and improving skills in **HTML, CSS, and JavaScript**.  
 I started my journey a few months ago — and since then I've already created several exciting projects.
 
@@ -37,3 +38,10 @@ I enjoy **gaming**, learning new tech, or diving into what's new in the tech wor
 ---
 
 ✨ *Looking forward to continuously improving and taking on new challenges!*
+
+I would appreciate a follow:
+👉 [Follow me on GitHub](https://github.com/LKatze22?tab=followers)
+
+
+
+

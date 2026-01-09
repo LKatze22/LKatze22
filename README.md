@@ -39,8 +39,8 @@ I enjoy **gaming**, learning new tech, or diving into what's new in the tech wor
 
 ✨ *Looking forward to continuously improving and taking on new challenges!*
 
-I would appreciate a follow:
-👉 [Follow me on GitHub](https://github.com/LKatze22?tab=followers)
+I would appreciate a follow :)
+
 
 
 

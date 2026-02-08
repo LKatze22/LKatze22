@@ -26,7 +26,7 @@ I started my journey a few months ago — and since then I've already created se
 ---
 
 ## 🧠 Currently Learning & Doing
-- Expanding my **frontend skills**  
+- Expanding my **frontend skills** (learning tailwindcss)  
 - Experimenting with new technologies  
 - Exploring the latest **tech trends**  
 

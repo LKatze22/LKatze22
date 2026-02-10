@@ -11,7 +11,9 @@ I started my journey a few months ago — and since then I've already created se
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="taiwindcss logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
@@ -26,7 +28,7 @@ I started my journey a few months ago — and since then I've already created se
 ---
 
 ## 🧠 Currently Learning & Doing
-- Expanding my **frontend skills** (learning tailwindcss)  
+- Expanding my **frontend skills** 
 - Experimenting with new technologies  
 - Exploring the latest **tech trends**  
 

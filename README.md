@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> Hi, I'm a Passionate Web Developer!
 
 
-I'm a **self-taught web developer** who spends his free time building projects and improving skills in **HTML, CSS, and JavaScript**.  
+I'm a **self-taught web developer** who spends his free time building projects and improving skills in **HTML, CSS, JavaScript, tailwindcss and React**.  
 I started my journey a few months ago — and since then I've already created several exciting projects.
 
 ## Tech Stack 
@@ -28,7 +28,8 @@ I started my journey a few months ago — and since then I've already created se
 ---
 
 ## 🧠 Currently Learning & Doing
-- Expanding my **frontend skills**-->Now i´m learning React
+- Expanding my **frontend skills**
+  - Curently: Learning React
 - Experimenting with new technologies  
 - Exploring the latest **tech trends**  
 

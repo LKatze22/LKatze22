@@ -29,7 +29,7 @@ I started my journey a few months ago — and since then I've already created se
 
 ## 🧠 Currently Learning & Doing
 - Expanding my **frontend skills**
-  - Curently: Learning React
+  - Curently: I'm Learning React
 - Experimenting with new technologies  
 - Exploring the latest **tech trends**  
 
